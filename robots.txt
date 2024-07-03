@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iecuoro.github.io/sitemap
+Sitemap: https://iecuoro.github.io/app/sitemap
+Sitemap: https://iecuoro.github.io/assets/sitemap
+Sitemap: https://iecuoro.github.io/css/sitemap
+Sitemap: https://iecuoro.github.io/includes/sitemap
+Sitemap: https://iecuoro.github.io/item/sitemap
+Sitemap: https://iecuoro.github.io/src/sitemap
